@@ -64,7 +64,7 @@
 - <a href="statistics-and-mathematics/1. Eigen-Value-and-Eigen-Vector.md">고유값(eigen value)와 고유벡터(eigen vector)에 대해 설명해주세요. 그리고 왜 중요할까요?</a>
 - <a href="statistics-and-mathematics/2. Sampling-and-Resampling.md">샘플링(Sampling)과 리샘플링(Resampling)에 대해 설명해주세요. 리샘플링은 무슨 장점이 있을까요?</a>
 - <a href="statistics-and-mathematics/3. Probability-Model-and-Probability-Variable.md">확률 모형과 확률 변수는 무엇일까요?</a>
-- 누적 분포 함수와 확률 밀도 함수는 무엇일까요? 수식과 함께 표현해주세요
+- <a href="statistics-and-mathematics/4. CDF-and-PDF.md">누적 분포 함수와 확률 밀도 함수는 무엇일까요? 수식과 함께 표현해주세요</a>
 - 베르누이 분포 / 이항 분포 / 카테고리 분포 / 다항 분포 / 가우시안 정규 분포 / t 분포 / 카이제곱 분포 / F 분포 / 베타 분포 / 감마 분포 / 디리클레 분포에 대해 설명해주세요. 혹시 연관된 분포가 있다면 연관 관계를 설명해주세요
 - 조건부 확률은 무엇일까요?
 - 공분산과 상관계수는 무엇일까요? 수식과 함께 표현해주세요
@@ -78,7 +78,7 @@
 - 엔트로피(entropy)에 대해 설명해주세요. 가능하면 Information Gain도요.
 - 요즘같은 빅데이터(?)시대에는 정규성 테스트가 의미 없다는 주장이 있습니다. 맞을까요?
 - 어떨 때 모수적 방법론을 쓸 수 있고, 어떨 때 비모수적 방법론을 쓸 수 있나요?
-- “likelihood”와 “probability”의 차이는 무엇일까요?
+- <a href="statistics-and-mathematics/18. Likelihood-and-Probability.md">“likelihood”와 “probability”의 차이는 무엇일까요?</a>
 - 통계에서 사용되는 bootstrap의 의미는 무엇인가요.
 - 모수가 매우 적은 (수십개 이하) 케이스의 경우 어떤 방식으로 예측 모델을 수립할 수 있을까요?
 - 베이지안과 프리퀀티스트간의 입장차이를 설명해주실 수 있나요?
