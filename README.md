@@ -68,7 +68,7 @@
 - 베르누이 분포 / 이항 분포 / 카테고리 분포 / 다항 분포 / 가우시안 정규 분포 / t 분포 / 카이제곱 분포 / F 분포 / 베타 분포 / 감마 분포 / 디리클레 분포에 대해 설명해주세요. 혹시 연관된 분포가 있다면 연관 관계를 설명해주세요
 - <a href="statistics-and-mathematics/6. Conditional-Probability.md">조건부 확률은 무엇일까요?</a>
 - <a href="statistics-and-mathematics/7. Covariance-and-Correlation.md">공분산과 상관계수는 무엇일까요? 수식과 함께 표현해주세요</a>
-- 신뢰 구간의 정의는 무엇인가요?
+- <a href="statistics-and-mathematics/8. Confidence_Interval.md">신뢰 구간의 정의는 무엇인가요?</a>
 - p-value를 고객에게는 뭐라고 설명하는게 이해하기 편할까요?
 - p-value는 요즘 시대에도 여전히 유효할까요? 언제 p-value가 실제를 호도하는 경향이 있을까요?
 - A/B Test 등 현상 분석 및 실험 설계 상 통계적으로 유의미함의 여부를 결정하기 위한 방법에는 어떤 것이 있을까요?
