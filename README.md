@@ -69,9 +69,9 @@
 - <a href="statistics-and-mathematics/6. Conditional-Probability.md">조건부 확률은 무엇일까요?</a>
 - <a href="statistics-and-mathematics/7. Covariance-and-Correlation.md">공분산과 상관계수는 무엇일까요? 수식과 함께 표현해주세요</a>
 - <a href="statistics-and-mathematics/8. Confidence_Interval.md">신뢰 구간의 정의는 무엇인가요?</a>
-- p-value를 고객에게는 뭐라고 설명하는게 이해하기 편할까요?
-- p-value는 요즘 시대에도 여전히 유효할까요? 언제 p-value가 실제를 호도하는 경향이 있을까요?
-- A/B Test 등 현상 분석 및 실험 설계 상 통계적으로 유의미함의 여부를 결정하기 위한 방법에는 어떤 것이 있을까요?
+- <a href="statistics-and-mathematics/9_10. p-value.md">p-value를 고객에게는 뭐라고 설명하는게 이해하기 편할까요?</a>
+- <a href="statistics-and-mathematics/9_10. p-value.md">p-value는 요즘 시대에도 여전히 유효할까요? 언제 p-value가 실제를 호도하는 경향이 있을까요?</a>
+- <a href="statistics-and-mathematics/11. AB-Test.md">A/B Test 등 현상 분석 및 실험 설계 상 통계적으로 유의미함의 여부를 결정하기 위한 방법에는 어떤 것이 있을까요?</a>
 - R square의 의미는 무엇인가요? 
 - 평균(mean)과 중앙값(median)중에 어떤 케이스에서 뭐를 써야할까요?
 - 중심극한정리는 왜 유용한걸까요?
