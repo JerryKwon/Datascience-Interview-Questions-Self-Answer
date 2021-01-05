@@ -72,10 +72,10 @@
 - <a href="statistics-and-mathematics/9_10. p-value.md">p-value를 고객에게는 뭐라고 설명하는게 이해하기 편할까요?</a>
 - <a href="statistics-and-mathematics/9_10. p-value.md">p-value는 요즘 시대에도 여전히 유효할까요? 언제 p-value가 실제를 호도하는 경향이 있을까요?</a>
 - <a href="statistics-and-mathematics/11. AB-Test.md">A/B Test 등 현상 분석 및 실험 설계 상 통계적으로 유의미함의 여부를 결정하기 위한 방법에는 어떤 것이 있을까요?</a>
-- R square의 의미는 무엇인가요? 
+- <a href="statistics-and-mathematics/12.R-sqaure.md">R square의 의미는 무엇인가요?</a> 
 - 평균(mean)과 중앙값(median)중에 어떤 케이스에서 뭐를 써야할까요?
-- 중심극한정리는 왜 유용한걸까요?
-- 엔트로피(entropy)에 대해 설명해주세요. 가능하면 Information Gain도요.
+- <a href="statistics-and-mathematics/13. CLT.md">중심극한정리는 왜 유용한걸까요?</a>
+- <a href="statistics-and-mathematics/14. Entrophy-and-Information-Gain.md">엔트로피(entropy)에 대해 설명해주세요. 가능하면 Information Gain도요.</a>
 - 요즘같은 빅데이터(?)시대에는 정규성 테스트가 의미 없다는 주장이 있습니다. 맞을까요?
 - 어떨 때 모수적 방법론을 쓸 수 있고, 어떨 때 비모수적 방법론을 쓸 수 있나요?
 - <a href="statistics-and-mathematics/18. Likelihood-and-Probability.md">“likelihood”와 “probability”의 차이는 무엇일까요?</a>
