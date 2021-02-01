@@ -106,9 +106,9 @@
 ##### [목차로 이동](#contents)
 
 ## 머신러닝
-- Cross Validation은 무엇이고 어떻게 해야하나요?
-- 회귀 / 분류시 알맞은 metric은 무엇일까요?
-- 알고 있는 metric에 대해 설명해주세요(ex. RMSE, MAE, recall, precision ...)
+- <a href="ML/1. Cross-Vaildation.md">Cross Validation은 무엇이고 어떻게 해야하나요?</a>
+- <a href="ML/2. Regression-Classification-Metric.md">회귀 / 분류시 알맞은 metric은 무엇일까요?</a>
+- <a href="ML/2. Regression-Classification-Metric.md">알고 있는 metric에 대해 설명해주세요(ex. RMSE, MAE, recall, precision ...)</a>
 - 정규화를 왜 해야할까요? 정규화의 방법은 무엇이 있나요?
 - Local Minima와 Global Minima에 대해 설명해주세요.
 - 차원의 저주에 대해 설명해주세요
